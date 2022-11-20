@@ -6,9 +6,9 @@
 }
 
 .searchForm {
-  margin-bottom: 20px;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .title {
@@ -20,6 +20,7 @@
 
 .searchInput {
   width: 100%;
+  font-family: inherit;
   padding: 10px;
   border: none;
   border-radius: 8px;
