@@ -1,0 +1,36 @@
+.container {
+  text-align: center;
+  max-width: 550px;
+  padding: 18px;
+  margin: 10px auto;
+}
+
+.searchForm {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 23px;
+  font-weight: 700;
+  color: #283739;
+  margin-bottom: 15px;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.searchBtn {
+  margin-left: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 28px;
+  }
+}
