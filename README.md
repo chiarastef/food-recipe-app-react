@@ -8,7 +8,7 @@ Project inspired by the video [Build a Recipe App With React](https://www.youtub
 
 ## Screenshot
 
-<img src="./screenshots/food-recipe-app-preview.png" alt="Dark Mode website preview" width="600px">
+<img src="./screenshots/food-recipe-app-preview.png" alt="Food recipe website preview" width="600px">
 
 ## Project
 
