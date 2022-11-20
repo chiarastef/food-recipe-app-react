@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className={style.container}>
-      <h1 className={style.title}>Search for an ingredient:</h1>
+      <h1 className={style.title}>Search for a recipe:</h1>
       <form className={style.searchForm} onSubmit={handleSearch}>
         <input
           type="text"
